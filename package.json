@@ -2,7 +2,7 @@
   "name": "chronos-pomodoro",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://franco-dev.github.io/chronos-pomodoro",
+  "homepage": "https://efranco-dev.github.io/chronos-pomodoro",
   "type": "module",
   "scripts": {
     "dev": "vite",
